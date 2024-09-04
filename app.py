@@ -11,7 +11,6 @@ import folium
 from folium.plugins import HeatMap
 import streamlit as st
 from streamlit_folium import st_folium
-import time
 import geopandas as gpd
 
 st.set_page_config(
