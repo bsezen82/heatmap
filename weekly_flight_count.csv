@@ -1,0 +1,980 @@
+﻿Week,departure.airport,latitude,longitude,flight_count
+2024-06-30,Abu Dhabi International,24.426912,54.645973,45
+2024-07-07,Abu Dhabi International,24.426912,54.645973,48
+2024-07-14,Abu Dhabi International,24.426912,54.645973,47
+2024-07-21,Abu Dhabi International,24.426912,54.645973,46
+2024-07-28,Abu Dhabi International,24.426912,54.645973,49
+2024-08-04,Abu Dhabi International,24.426912,54.645973,47
+2024-08-11,Abu Dhabi International,24.426912,54.645973,48
+2024-08-18,Abu Dhabi International,24.426912,54.645973,48
+2024-08-25,Abu Dhabi International,24.426912,54.645973,46
+2024-06-30,Adana,36.98503,35.29736,1
+2024-07-21,Adana,36.98503,35.29736,1
+2024-08-04,Adana,36.98503,35.29736,1
+2024-06-30,Aden International Airport,12.826116,45.037537,10
+2024-07-07,Aden International Airport,12.826116,45.037537,10
+2024-07-14,Aden International Airport,12.826116,45.037537,8
+2024-07-21,Aden International Airport,12.826116,45.037537,9
+2024-07-28,Aden International Airport,12.826116,45.037537,8
+2024-08-04,Aden International Airport,12.826116,45.037537,10
+2024-08-11,Aden International Airport,12.826116,45.037537,5
+2024-08-18,Aden International Airport,12.826116,45.037537,5
+2024-08-25,Aden International Airport,12.826116,45.037537,7
+2024-07-28,Adi Sumarmo,-7.51583,110.75667,1
+2024-08-04,Adi Sumarmo,-7.51583,110.75667,1
+2024-08-11,Adi Sumarmo,-7.51583,110.75667,1
+2024-08-18,Adi Sumarmo,-7.51583,110.75667,1
+2024-08-25,Adi Sumarmo,-7.51583,110.75667,1
+2024-08-11,Adnan Menderes Airport,38.294403,27.147594,1
+2024-06-30,Agadir Almassira,30.378326,-9.555895,1
+2024-06-30,Agri,39.65,43.025,1
+2024-06-30,Ain Beida,31.916668,5.4,1
+2024-07-07,Ain Beida,31.916668,5.4,2
+2024-06-30,Al-Fujairah International,25.109444,56.330555,13
+2024-07-07,Al-Fujairah International,25.109444,56.330555,6
+2024-06-30,Alama Iqbal International,31.520832,74.40278,23
+2024-07-07,Alama Iqbal International,31.520832,74.40278,23
+2024-07-14,Alama Iqbal International,31.520832,74.40278,26
+2024-07-21,Alama Iqbal International,31.520832,74.40278,35
+2024-07-28,Alama Iqbal International,31.520832,74.40278,34
+2024-08-04,Alama Iqbal International,31.520832,74.40278,40
+2024-08-11,Alama Iqbal International,31.520832,74.40278,38
+2024-08-18,Alama Iqbal International,31.520832,74.40278,42
+2024-08-25,Alama Iqbal International,31.520832,74.40278,39
+2024-06-30,Alexander The Great Airport,41.95649,21.62872,5
+2024-07-07,Alexander The Great Airport,41.95649,21.62872,3
+2024-07-14,Almaty,43.346653,77.01145,1
+2024-07-21,Almaty,43.346653,77.01145,2
+2024-07-28,Almaty,43.346653,77.01145,2
+2024-08-04,Almaty,43.346653,77.01145,2
+2024-08-11,Almaty,43.346653,77.01145,2
+2024-08-18,Almaty,43.346653,77.01145,2
+2024-08-25,Almaty,43.346653,77.01145,1
+2024-06-30,Amausi,26.764257,80.884186,4
+2024-07-07,Amausi,26.764257,80.884186,1
+2024-07-21,Amausi,26.764257,80.884186,3
+2024-07-28,Amausi,26.764257,80.884186,4
+2024-08-04,Amausi,26.764257,80.884186,6
+2024-08-11,Amausi,26.764257,80.884186,6
+2024-08-18,Amausi,26.764257,80.884186,6
+2024-08-25,Amausi,26.764257,80.884186,5
+2024-06-30,Aminu Kano International Airport,12.045549,8.522271,2
+2024-07-07,Aminu Kano International Airport,12.045549,8.522271,1
+2024-07-14,Aminu Kano International Airport,12.045549,8.522271,1
+2024-07-21,Aminu Kano International Airport,12.045549,8.522271,1
+2024-07-28,Aminu Kano International Airport,12.045549,8.522271,1
+2024-08-04,Aminu Kano International Airport,12.045549,8.522271,2
+2024-08-11,Aminu Kano International Airport,12.045549,8.522271,2
+2024-08-18,Aminu Kano International Airport,12.045549,8.522271,2
+2024-08-25,Aminu Kano International Airport,12.045549,8.522271,2
+2024-06-30,Anadolu University,39.81,30.519444,1
+2024-06-30,Antalya,36.89928,30.80135,5
+2024-07-07,Antalya,36.89928,30.80135,5
+2024-07-14,Antalya,36.89928,30.80135,3
+2024-07-21,Antalya,36.89928,30.80135,3
+2024-07-28,Antalya,36.89928,30.80135,3
+2024-08-04,Antalya,36.89928,30.80135,4
+2024-08-11,Antalya,36.89928,30.80135,3
+2024-08-18,Antalya,36.89928,30.80135,4
+2024-08-25,Antalya,36.89928,30.80135,4
+2024-06-30,Ashgabat,37.984184,58.366978,6
+2024-07-07,Ashgabat,37.984184,58.366978,3
+2024-07-21,Ashgabat,37.984184,58.366978,1
+2024-07-28,Ashgabat,37.984184,58.366978,2
+2024-08-04,Ashgabat,37.984184,58.366978,2
+2024-08-11,Ashgabat,37.984184,58.366978,2
+2024-08-18,Ashgabat,37.984184,58.366978,3
+2024-08-25,Ashgabat,37.984184,58.366978,2
+2024-06-30,Assiut,27.033333,31,7
+2024-07-07,Assiut,27.033333,31,8
+2024-07-14,Assiut,27.033333,31,8
+2024-07-21,Assiut,27.033333,31,8
+2024-07-28,Assiut,27.033333,31,7
+2024-08-04,Assiut,27.033333,31,8
+2024-08-11,Assiut,27.033333,31,8
+2024-08-18,Assiut,27.033333,31,8
+2024-08-25,Assiut,27.033333,31,6
+2024-06-30,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,7
+2024-07-07,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,9
+2024-07-14,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,8
+2024-07-21,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,9
+2024-07-28,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,10
+2024-08-04,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,9
+2024-08-11,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,9
+2024-08-18,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,9
+2024-08-25,"Athens International Airport ""Eleftherios Venizelos""",37.93635,23.946486,9
+2024-06-30,Baghdad International,33.255554,44.225,3
+2024-07-07,Baghdad International,33.255554,44.225,2
+2024-07-14,Baghdad International,33.255554,44.225,1
+2024-07-21,Baghdad International,33.255554,44.225,17
+2024-07-28,Baghdad International,33.255554,44.225,13
+2024-08-04,Baghdad International,33.255554,44.225,13
+2024-08-11,Baghdad International,33.255554,44.225,16
+2024-08-18,Baghdad International,33.255554,44.225,15
+2024-08-25,Baghdad International,33.255554,44.225,8
+2024-06-30,Bahrain International,26.26918,50.62605,40
+2024-07-07,Bahrain International,26.26918,50.62605,39
+2024-07-14,Bahrain International,26.26918,50.62605,42
+2024-07-21,Bahrain International,26.26918,50.62605,41
+2024-07-28,Bahrain International,26.26918,50.62605,40
+2024-08-04,Bahrain International,26.26918,50.62605,41
+2024-08-11,Bahrain International,26.26918,50.62605,38
+2024-08-18,Bahrain International,26.26918,50.62605,41
+2024-08-25,Bahrain International,26.26918,50.62605,41
+2024-07-07,Bajpe,12.963543,74.890144,1
+2024-07-21,Bajpe,12.963543,74.890144,1
+2024-08-11,Bajpe,12.963543,74.890144,1
+2024-08-18,Bajpe,12.963543,74.890144,1
+2024-08-25,Bajpe,12.963543,74.890144,1
+2024-06-30,Bamako,12.540926,-7.947951,1
+2024-07-21,Bandar Seri Begwan International Airport,4.945197,114.93375,2
+2024-07-28,Bandar Seri Begwan International Airport,4.945197,114.93375,2
+2024-08-04,Bandar Seri Begwan International Airport,4.945197,114.93375,2
+2024-08-11,Bandar Seri Begwan International Airport,4.945197,114.93375,2
+2024-08-18,Bandar Seri Begwan International Airport,4.945197,114.93375,2
+2024-08-25,Bandar Seri Begwan International Airport,4.945197,114.93375,2
+2024-06-30,Bangalore International Airport,13.198889,77.70556,4
+2024-07-07,Bangalore International Airport,13.198889,77.70556,1
+2024-07-21,Bangalore International Airport,13.198889,77.70556,2
+2024-07-28,Bangalore International Airport,13.198889,77.70556,4
+2024-08-04,Bangalore International Airport,13.198889,77.70556,4
+2024-08-11,Bangalore International Airport,13.198889,77.70556,6
+2024-08-18,Bangalore International Airport,13.198889,77.70556,5
+2024-08-25,Bangalore International Airport,13.198889,77.70556,5
+2024-07-28,Bangui,4.396111,18.520279,1
+2024-06-30,Barajas,40.46515,-3.570209,3
+2024-07-07,Barajas,40.46515,-3.570209,4
+2024-07-14,Barajas,40.46515,-3.570209,4
+2024-07-21,Barajas,40.46515,-3.570209,4
+2024-07-28,Barajas,40.46515,-3.570209,4
+2024-08-04,Barajas,40.46515,-3.570209,4
+2024-08-11,Barajas,40.46515,-3.570209,4
+2024-08-18,Barajas,40.46515,-3.570209,4
+2024-08-25,Barajas,40.46515,-3.570209,4
+2024-08-18,Basrah International Airport,30.555555,47.79139,1
+2024-06-30,Batna,35.566666,6.183333,1
+2024-07-07,Batna,35.566666,6.183333,1
+2024-06-30,Batum,41.610832,41.600555,3
+2024-07-07,Batum,41.610832,41.600555,4
+2024-07-14,Batum,41.610832,41.600555,4
+2024-07-21,Batum,41.610832,41.600555,4
+2024-07-28,Batum,41.610832,41.600555,4
+2024-08-04,Batum,41.610832,41.600555,4
+2024-08-11,Batum,41.610832,41.600555,4
+2024-08-18,Batum,41.610832,41.600555,4
+2024-08-25,Batum,41.610832,41.600555,4
+2024-06-30,Beijing Capital International,40.078537,116.5871,7
+2024-07-07,Beijing Capital International,40.078537,116.5871,2
+2024-06-30,Beijing Daxing International Airport,39.5092,116.411,1
+2024-07-07,Beijing Daxing International Airport,39.5092,116.411,2
+2024-07-14,Beijing Daxing International Airport,39.5092,116.411,2
+2024-07-21,Beijing Daxing International Airport,39.5092,116.411,2
+2024-07-28,Beijing Daxing International Airport,39.5092,116.411,2
+2024-08-04,Beijing Daxing International Airport,39.5092,116.411,2
+2024-08-11,Beijing Daxing International Airport,39.5092,116.411,2
+2024-08-18,Beijing Daxing International Airport,39.5092,116.411,2
+2024-08-25,Beijing Daxing International Airport,39.5092,116.411,2
+2024-06-30,Beirut Rafic Hariri Airport,33.826073,35.49308,11
+2024-07-07,Beirut Rafic Hariri Airport,33.826073,35.49308,13
+2024-07-14,Beirut Rafic Hariri Airport,33.826073,35.49308,14
+2024-07-21,Beirut Rafic Hariri Airport,33.826073,35.49308,12
+2024-07-28,Beirut Rafic Hariri Airport,33.826073,35.49308,14
+2024-08-04,Beirut Rafic Hariri Airport,33.826073,35.49308,15
+2024-08-11,Beirut Rafic Hariri Airport,33.826073,35.49308,16
+2024-08-18,Beirut Rafic Hariri Airport,33.826073,35.49308,12
+2024-08-25,Beirut Rafic Hariri Airport,33.826073,35.49308,13
+2024-06-30,Birmingham International Airport,52.45252,-1.733256,3
+2024-07-07,Birmingham International Airport,52.45252,-1.733256,3
+2024-07-14,Birmingham International Airport,52.45252,-1.733256,3
+2024-07-21,Birmingham International Airport,52.45252,-1.733256,4
+2024-07-28,Birmingham International Airport,52.45252,-1.733256,4
+2024-08-04,Birmingham International Airport,52.45252,-1.733256,3
+2024-08-11,Birmingham International Airport,52.45252,-1.733256,4
+2024-08-18,Birmingham International Airport,52.45252,-1.733256,2
+2024-08-25,Birmingham International Airport,52.45252,-1.733256,4
+2024-06-30,Bole International,8.983759,38.7959,25
+2024-07-07,Bole International,8.983759,38.7959,32
+2024-07-14,Bole International,8.983759,38.7959,30
+2024-07-21,Bole International,8.983759,38.7959,26
+2024-07-28,Bole International,8.983759,38.7959,28
+2024-08-04,Bole International,8.983759,38.7959,30
+2024-08-11,Bole International,8.983759,38.7959,34
+2024-08-18,Bole International,8.983759,38.7959,26
+2024-08-25,Bole International,8.983759,38.7959,32
+2024-06-30,Borg el Arab,30.922234,29.686504,27
+2024-07-07,Borg el Arab,30.922234,29.686504,34
+2024-07-14,Borg el Arab,30.922234,29.686504,33
+2024-07-21,Borg el Arab,30.922234,29.686504,30
+2024-07-28,Borg el Arab,30.922234,29.686504,31
+2024-08-04,Borg el Arab,30.922234,29.686504,34
+2024-08-11,Borg el Arab,30.922234,29.686504,39
+2024-08-18,Borg el Arab,30.922234,29.686504,34
+2024-08-25,Borg el Arab,30.922234,29.686504,32
+2024-08-11,Bron,45.73083,4.943333,1
+2024-07-07,Brussels Airport,50.89717,4.483602,1
+2024-06-30,Cairo International Airport,30.120106,31.40647,256
+2024-07-07,Cairo International Airport,30.120106,31.40647,269
+2024-07-14,Cairo International Airport,30.120106,31.40647,232
+2024-07-21,Cairo International Airport,30.120106,31.40647,222
+2024-07-28,Cairo International Airport,30.120106,31.40647,218
+2024-08-04,Cairo International Airport,30.120106,31.40647,241
+2024-08-11,Cairo International Airport,30.120106,31.40647,250
+2024-08-18,Cairo International Airport,30.120106,31.40647,242
+2024-08-25,Cairo International Airport,30.120106,31.40647,248
+2024-06-30,Canakkale,40.13333,26.4,1
+2024-06-30,Cardak,37.787224,29.703333,1
+2024-06-30,Carsamba,41.25738,36.555058,2
+2024-06-30,Carthage,36.847622,10.21709,4
+2024-07-07,Carthage,36.847622,10.21709,9
+2024-07-14,Carthage,36.847622,10.21709,9
+2024-07-21,Carthage,36.847622,10.21709,7
+2024-07-28,Carthage,36.847622,10.21709,8
+2024-08-04,Carthage,36.847622,10.21709,8
+2024-08-11,Carthage,36.847622,10.21709,9
+2024-08-18,Carthage,36.847622,10.21709,9
+2024-08-25,Carthage,36.847622,10.21709,9
+2024-06-30,Charles De Gaulle,49.003197,2.567023,6
+2024-07-07,Charles De Gaulle,49.003197,2.567023,6
+2024-07-14,Charles De Gaulle,49.003197,2.567023,6
+2024-07-21,Charles De Gaulle,49.003197,2.567023,7
+2024-07-28,Charles De Gaulle,49.003197,2.567023,7
+2024-08-04,Charles De Gaulle,49.003197,2.567023,7
+2024-08-11,Charles De Gaulle,49.003197,2.567023,6
+2024-08-18,Charles De Gaulle,49.003197,2.567023,7
+2024-08-25,Charles De Gaulle,49.003197,2.567023,7
+2024-06-30,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,14
+2024-07-07,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,20
+2024-07-14,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,29
+2024-07-21,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,32
+2024-07-28,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,38
+2024-08-04,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,38
+2024-08-11,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,42
+2024-08-18,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,49
+2024-08-25,Chhatrapati Shivaji International (Sahar International),19.095509,72.87497,48
+2024-07-14,Ciampino,41.799065,12.590987,1
+2024-07-07,Cochin International,10.155644,76.39053,3
+2024-07-14,Cochin International,10.155644,76.39053,5
+2024-07-21,Cochin International,10.155644,76.39053,4
+2024-07-28,Cochin International,10.155644,76.39053,5
+2024-08-04,Cochin International,10.155644,76.39053,5
+2024-08-11,Cochin International,10.155644,76.39053,5
+2024-08-18,Cochin International,10.155644,76.39053,5
+2024-08-25,Cochin International,10.155644,76.39053,5
+2024-06-30,Constantine Mohamed Boudiaf International Airport,36.286476,6.618425,3
+2024-07-07,Constantine Mohamed Boudiaf International Airport,36.286476,6.618425,5
+2024-08-25,Constantine Mohamed Boudiaf International Airport,36.286476,6.618425,1
+2024-08-04,Costa Smeralda,40.903145,9.514823,1
+2024-08-11,Costa Smeralda,40.903145,9.514823,1
+2024-07-14,Cote D'azur International Airport,43.66049,7.205232,1
+2024-08-18,Cote D'azur International Airport,43.66049,7.205232,4
+2024-08-25,Cote D'azur International Airport,43.66049,7.205232,1
+2024-06-30,Dalaman,36.716667,28.783333,1
+2024-08-04,Dalaman,36.716667,28.783333,1
+2024-06-30,Diyarbakir,37.903873,40.20458,1
+2024-06-30,Doha International,25.267569,51.558067,58
+2024-07-07,Doha International,25.267569,51.558067,62
+2024-07-14,Doha International,25.267569,51.558067,60
+2024-07-21,Doha International,25.267569,51.558067,59
+2024-07-28,Doha International,25.267569,51.558067,62
+2024-08-04,Doha International,25.267569,51.558067,62
+2024-08-11,Doha International,25.267569,51.558067,62
+2024-08-18,Doha International,25.267569,51.558067,61
+2024-08-25,Doha International,25.267569,51.558067,61
+2024-06-30,Dubai,25.248665,55.352917,131
+2024-07-07,Dubai,25.248665,55.352917,141
+2024-07-14,Dubai,25.248665,55.352917,140
+2024-07-21,Dubai,25.248665,55.352917,140
+2024-07-28,Dubai,25.248665,55.352917,142
+2024-08-04,Dubai,25.248665,55.352917,143
+2024-08-11,Dubai,25.248665,55.352917,142
+2024-08-18,Dubai,25.248665,55.352917,141
+2024-08-25,Dubai,25.248665,55.352917,143
+2024-06-30,Dushanbe,38.54894,68.81728,5
+2024-08-04,Dushanbe,38.54894,68.81728,2
+2024-08-11,Dushanbe,38.54894,68.81728,1
+2024-08-18,Dushanbe,38.54894,68.81728,2
+2024-08-25,Dushanbe,38.54894,68.81728,2
+2024-06-30,El Prat De Llobregat,41.30303,2.07593,1
+2024-07-07,El Prat De Llobregat,41.30303,2.07593,4
+2024-07-14,El Prat De Llobregat,41.30303,2.07593,5
+2024-07-21,El Prat De Llobregat,41.30303,2.07593,4
+2024-07-28,El Prat De Llobregat,41.30303,2.07593,3
+2024-08-04,El Prat De Llobregat,41.30303,2.07593,2
+2024-08-11,El Prat De Llobregat,41.30303,2.07593,3
+2024-08-18,El Prat De Llobregat,41.30303,2.07593,3
+2024-08-25,El Prat De Llobregat,41.30303,2.07593,2
+2024-06-30,Es Senia,35.620018,-0.606108,5
+2024-06-30,Esenboga International,40.11494,32.993145,4
+2024-07-07,Esenboga International,40.11494,32.993145,2
+2024-07-14,Esenboga International,40.11494,32.993145,3
+2024-07-21,Esenboga International,40.11494,32.993145,1
+2024-07-28,Esenboga International,40.11494,32.993145,1
+2024-08-04,Esenboga International,40.11494,32.993145,3
+2024-08-11,Esenboga International,40.11494,32.993145,3
+2024-08-25,Esenboga International,40.11494,32.993145,1
+2024-07-28,Faisalabad,31.363043,72.98757,1
+2024-08-04,Faisalabad,31.363043,72.98757,2
+2024-08-11,Faisalabad,31.363043,72.98757,2
+2024-08-18,Faisalabad,31.363043,72.98757,2
+2024-08-25,Faisalabad,31.363043,72.98757,3
+2024-08-18,Farnborough,51.283333,-0.766667,1
+2024-06-30,Ferit Melen Airport,38.45861,43.332222,2
+2024-06-30,Frankfurt International Airport,50.050735,8.570773,3
+2024-07-07,Frankfurt International Airport,50.050735,8.570773,4
+2024-07-14,Frankfurt International Airport,50.050735,8.570773,4
+2024-07-21,Frankfurt International Airport,50.050735,8.570773,3
+2024-07-28,Frankfurt International Airport,50.050735,8.570773,4
+2024-08-04,Frankfurt International Airport,50.050735,8.570773,5
+2024-08-11,Frankfurt International Airport,50.050735,8.570773,4
+2024-08-18,Frankfurt International Airport,50.050735,8.570773,4
+2024-08-25,Frankfurt International Airport,50.050735,8.570773,5
+2024-06-30,Franz Josef Strauss,48.353004,11.790143,1
+2024-07-07,Franz Josef Strauss,48.353004,11.790143,3
+2024-07-14,Franz Josef Strauss,48.353004,11.790143,2
+2024-07-21,Franz Josef Strauss,48.353004,11.790143,1
+2024-07-28,Franz Josef Strauss,48.353004,11.790143,3
+2024-08-04,Franz Josef Strauss,48.353004,11.790143,3
+2024-08-11,Franz Josef Strauss,48.353004,11.790143,2
+2024-08-18,Franz Josef Strauss,48.353004,11.790143,3
+2024-08-25,Franz Josef Strauss,48.353004,11.790143,3
+2024-06-30,Gatwick,51.156807,-0.161863,3
+2024-07-07,Gatwick,51.156807,-0.161863,3
+2024-07-14,Gatwick,51.156807,-0.161863,3
+2024-07-21,Gatwick,51.156807,-0.161863,6
+2024-07-28,Gatwick,51.156807,-0.161863,6
+2024-08-04,Gatwick,51.156807,-0.161863,6
+2024-08-11,Gatwick,51.156807,-0.161863,4
+2024-08-18,Gatwick,51.156807,-0.161863,4
+2024-08-25,Gatwick,51.156807,-0.161863,5
+2024-06-30,Gaziantep,36.944935,37.473747,5
+2024-07-07,Gaziantep,36.944935,37.473747,4
+2024-08-11,Gaziantep,36.944935,37.473747,2
+2024-08-18,Gaziantep,36.944935,37.473747,1
+2024-07-21,Gazipasa Airport,36.2993,32.3014,1
+2024-06-30,Geneve-cointrin,46.229633,6.105774,4
+2024-07-07,Geneve-cointrin,46.229633,6.105774,4
+2024-07-14,Geneve-cointrin,46.229633,6.105774,4
+2024-07-21,Geneve-cointrin,46.229633,6.105774,4
+2024-07-28,Geneve-cointrin,46.229633,6.105774,4
+2024-08-04,Geneve-cointrin,46.229633,6.105774,4
+2024-08-11,Geneve-cointrin,46.229633,6.105774,4
+2024-08-18,Geneve-cointrin,46.229633,6.105774,6
+2024-08-25,Geneve-cointrin,46.229633,6.105774,4
+2024-07-21,Glasgow International,55.864212,-4.431782,1
+2024-06-30,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-07-07,Guangzhou Baiyun International,23.387861,113.29734,2
+2024-07-14,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-07-21,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-07-28,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-08-04,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-08-11,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-08-18,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-08-25,Guangzhou Baiyun International,23.387861,113.29734,3
+2024-06-30,Guney Anadolu Projesi,37.094166,38.846943,2
+2024-07-14,Hargeisa,9.515833,44.091667,1
+2024-07-21,Hargeisa,9.515833,44.091667,1
+2024-07-28,Hargeisa,9.515833,44.091667,1
+2024-08-04,Hargeisa,9.515833,44.091667,1
+2024-08-11,Hargeisa,9.515833,44.091667,1
+2024-08-18,Hargeisa,9.515833,44.091667,1
+2024-08-25,Hargeisa,9.515833,44.091667,1
+2024-07-21,Hasanudin,-5.058312,119.54589,1
+2024-07-28,Hasanudin,-5.058312,119.54589,4
+2024-08-04,Hasanudin,-5.058312,119.54589,7
+2024-08-11,Hasanudin,-5.058312,119.54589,8
+2024-08-18,Hasanudin,-5.058312,119.54589,8
+2024-08-25,Hasanudin,-5.058312,119.54589,8
+2024-06-30,Heathrow,51.469604,-0.453566,14
+2024-07-07,Heathrow,51.469604,-0.453566,13
+2024-07-14,Heathrow,51.469604,-0.453566,12
+2024-07-21,Heathrow,51.469604,-0.453566,13
+2024-07-28,Heathrow,51.469604,-0.453566,15
+2024-08-04,Heathrow,51.469604,-0.453566,14
+2024-08-11,Heathrow,51.469604,-0.453566,13
+2024-08-18,Heathrow,51.469604,-0.453566,15
+2024-08-25,Heathrow,51.469604,-0.453566,15
+2024-07-07,Herat,34.212696,62.22599,6
+2024-07-14,Herat,34.212696,62.22599,1
+2024-08-18,Herat,34.212696,62.22599,1
+2024-08-25,Herat,34.212696,62.22599,1
+2024-06-30,Heydar Aliyev International (Bina International),40.462486,50.05039,6
+2024-07-07,Heydar Aliyev International (Bina International),40.462486,50.05039,4
+2024-07-14,Heydar Aliyev International (Bina International),40.462486,50.05039,5
+2024-07-21,Heydar Aliyev International (Bina International),40.462486,50.05039,4
+2024-07-28,Heydar Aliyev International (Bina International),40.462486,50.05039,5
+2024-08-04,Heydar Aliyev International (Bina International),40.462486,50.05039,4
+2024-08-11,Heydar Aliyev International (Bina International),40.462486,50.05039,4
+2024-08-18,Heydar Aliyev International (Bina International),40.462486,50.05039,4
+2024-08-25,Heydar Aliyev International (Bina International),40.462486,50.05039,2
+2024-06-30,Hong Kong International,22.315248,113.93649,1
+2024-07-07,Hong Kong International,22.315248,113.93649,1
+2024-07-21,Hong Kong International,22.315248,113.93649,1
+2024-07-28,Hong Kong International,22.315248,113.93649,1
+2024-08-04,Hong Kong International,22.315248,113.93649,1
+2024-08-11,Hong Kong International,22.315248,113.93649,1
+2024-08-18,Hong Kong International,22.315248,113.93649,1
+2024-08-25,Hong Kong International,22.315248,113.93649,1
+2024-06-30,Houari Boumediene,36.70058,3.21167,12
+2024-07-07,Houari Boumediene,36.70058,3.21167,14
+2024-07-14,Houari Boumediene,36.70058,3.21167,7
+2024-07-21,Houari Boumediene,36.70058,3.21167,4
+2024-07-28,Houari Boumediene,36.70058,3.21167,7
+2024-08-04,Houari Boumediene,36.70058,3.21167,6
+2024-08-11,Houari Boumediene,36.70058,3.21167,6
+2024-08-18,Houari Boumediene,36.70058,3.21167,9
+2024-08-25,Houari Boumediene,36.70058,3.21167,8
+2024-06-30,Hurghada,27.189156,33.8055,3
+2024-07-07,Hurghada,27.189156,33.8055,3
+2024-07-14,Hurghada,27.189156,33.8055,3
+2024-07-21,Hurghada,27.189156,33.8055,3
+2024-07-28,Hurghada,27.189156,33.8055,3
+2024-08-04,Hurghada,27.189156,33.8055,3
+2024-08-11,Hurghada,27.189156,33.8055,3
+2024-06-30,Hyderabad Airport,17.24,78.428055,15
+2024-07-07,Hyderabad Airport,17.24,78.428055,12
+2024-07-14,Hyderabad Airport,17.24,78.428055,13
+2024-07-21,Hyderabad Airport,17.24,78.428055,18
+2024-07-28,Hyderabad Airport,17.24,78.428055,19
+2024-08-04,Hyderabad Airport,17.24,78.428055,23
+2024-08-11,Hyderabad Airport,17.24,78.428055,22
+2024-08-18,Hyderabad Airport,17.24,78.428055,21
+2024-08-25,Hyderabad Airport,17.24,78.428055,21
+2024-06-30,Ibiza,38.876595,1.367803,1
+2024-07-28,Ibiza,38.876595,1.367803,1
+2024-06-30,Indira Gandhi International,28.556555,77.10079,19
+2024-07-07,Indira Gandhi International,28.556555,77.10079,16
+2024-07-14,Indira Gandhi International,28.556555,77.10079,10
+2024-07-21,Indira Gandhi International,28.556555,77.10079,17
+2024-07-28,Indira Gandhi International,28.556555,77.10079,20
+2024-08-04,Indira Gandhi International,28.556555,77.10079,20
+2024-08-11,Indira Gandhi International,28.556555,77.10079,20
+2024-08-18,Indira Gandhi International,28.556555,77.10079,20
+2024-08-25,Indira Gandhi International,28.556555,77.10079,20
+2024-06-30,Islamabad International,33.609707,73.1051,28
+2024-07-07,Islamabad International,33.609707,73.1051,31
+2024-07-14,Islamabad International,33.609707,73.1051,33
+2024-07-21,Islamabad International,33.609707,73.1051,39
+2024-07-28,Islamabad International,33.609707,73.1051,39
+2024-08-04,Islamabad International,33.609707,73.1051,42
+2024-08-11,Islamabad International,33.609707,73.1051,39
+2024-08-18,Islamabad International,33.609707,73.1051,38
+2024-08-25,Islamabad International,33.609707,73.1051,34
+2024-06-30,Isparta,37.86611,30.382221,1
+2024-06-30,Istanbul Airport,40.976665,28.815277,92
+2024-07-07,Istanbul Airport,40.976665,28.815277,64
+2024-07-14,Istanbul Airport,40.976665,28.815277,53
+2024-07-21,Istanbul Airport,40.976665,28.815277,55
+2024-07-28,Istanbul Airport,40.976665,28.815277,55
+2024-08-04,Istanbul Airport,40.976665,28.815277,55
+2024-08-11,Istanbul Airport,40.976665,28.815277,62
+2024-08-18,Istanbul Airport,40.976665,28.815277,51
+2024-08-25,Istanbul Airport,40.976665,28.815277,56
+2024-06-30,John F Kennedy International,40.642334,-73.78817,3
+2024-07-07,John F Kennedy International,40.642334,-73.78817,4
+2024-07-14,John F Kennedy International,40.642334,-73.78817,4
+2024-07-21,John F Kennedy International,40.642334,-73.78817,4
+2024-07-28,John F Kennedy International,40.642334,-73.78817,4
+2024-08-04,John F Kennedy International,40.642334,-73.78817,4
+2024-08-11,John F Kennedy International,40.642334,-73.78817,4
+2024-08-18,John F Kennedy International,40.642334,-73.78817,4
+2024-08-25,John F Kennedy International,40.642334,-73.78817,4
+2024-06-30,Jomo Kenyatta International,-1.319167,36.92578,7
+2024-07-07,Jomo Kenyatta International,-1.319167,36.92578,5
+2024-07-14,Jomo Kenyatta International,-1.319167,36.92578,6
+2024-07-21,Jomo Kenyatta International,-1.319167,36.92578,7
+2024-07-28,Jomo Kenyatta International,-1.319167,36.92578,7
+2024-08-04,Jomo Kenyatta International,-1.319167,36.92578,8
+2024-08-11,Jomo Kenyatta International,-1.319167,36.92578,6
+2024-08-18,Jomo Kenyatta International,-1.319167,36.92578,7
+2024-08-25,Jomo Kenyatta International,-1.319167,36.92578,8
+2024-07-28,Juanda,-7.38387,112.77724,6
+2024-08-04,Juanda,-7.38387,112.77724,15
+2024-08-11,Juanda,-7.38387,112.77724,10
+2024-08-18,Juanda,-7.38387,112.77724,16
+2024-08-25,Juanda,-7.38387,112.77724,16
+2024-06-30,Kandahar,31.506945,65.8475,2
+2024-07-14,Kandahar,31.506945,65.8475,5
+2024-07-21,Kandahar,31.506945,65.8475,1
+2024-08-18,Kandahar,31.506945,65.8475,1
+2024-08-25,Kandahar,31.506945,65.8475,2
+2024-07-07,Kannur International Airport,11.915858,75.55094,2
+2024-07-14,Kannur International Airport,11.915858,75.55094,2
+2024-07-21,Kannur International Airport,11.915858,75.55094,2
+2024-07-28,Kannur International Airport,11.915858,75.55094,2
+2024-08-04,Kannur International Airport,11.915858,75.55094,2
+2024-08-11,Kannur International Airport,11.915858,75.55094,2
+2024-08-18,Kannur International Airport,11.915858,75.55094,2
+2024-08-25,Kannur International Airport,11.915858,75.55094,2
+2024-06-30,Khwaja Rawash,34.56069,69.21152,9
+2024-07-07,Khwaja Rawash,34.56069,69.21152,3
+2024-07-14,Khwaja Rawash,34.56069,69.21152,5
+2024-07-21,Khwaja Rawash,34.56069,69.21152,1
+2024-07-28,Khwaja Rawash,34.56069,69.21152,3
+2024-08-04,Khwaja Rawash,34.56069,69.21152,3
+2024-08-11,Khwaja Rawash,34.56069,69.21152,2
+2024-08-18,Khwaja Rawash,34.56069,69.21152,2
+2024-08-25,Khwaja Rawash,34.56069,69.21152,2
+2024-08-25,Kirkuk,35.516666,44.283333,1
+2024-06-30,Konya,37.979168,32.56222,2
+2024-07-14,Konya,37.979168,32.56222,3
+2024-07-21,Konya,37.979168,32.56222,1
+2024-07-28,Konya,37.979168,32.56222,7
+2024-08-18,Konya,37.979168,32.56222,3
+2024-06-30,Kozhikode Airport,11.14025,75.950584,26
+2024-07-07,Kozhikode Airport,11.14025,75.950584,37
+2024-07-14,Kozhikode Airport,11.14025,75.950584,38
+2024-07-21,Kozhikode Airport,11.14025,75.950584,20
+2024-07-28,Kozhikode Airport,11.14025,75.950584,17
+2024-08-04,Kozhikode Airport,11.14025,75.950584,19
+2024-08-11,Kozhikode Airport,11.14025,75.950584,16
+2024-08-18,Kozhikode Airport,11.14025,75.950584,20
+2024-08-25,Kozhikode Airport,11.14025,75.950584,20
+2024-06-30,Kuala Lumpur International Airport (klia),2.755672,101.70539,35
+2024-07-07,Kuala Lumpur International Airport (klia),2.755672,101.70539,35
+2024-07-14,Kuala Lumpur International Airport (klia),2.755672,101.70539,36
+2024-07-21,Kuala Lumpur International Airport (klia),2.755672,101.70539,43
+2024-07-28,Kuala Lumpur International Airport (klia),2.755672,101.70539,49
+2024-08-04,Kuala Lumpur International Airport (klia),2.755672,101.70539,55
+2024-08-11,Kuala Lumpur International Airport (klia),2.755672,101.70539,54
+2024-08-18,Kuala Lumpur International Airport (klia),2.755672,101.70539,55
+2024-08-25,Kuala Lumpur International Airport (klia),2.755672,101.70539,49
+2024-06-30,Kuwait International,29.240116,47.971252,70
+2024-07-07,Kuwait International,29.240116,47.971252,66
+2024-07-14,Kuwait International,29.240116,47.971252,69
+2024-07-21,Kuwait International,29.240116,47.971252,75
+2024-07-28,Kuwait International,29.240116,47.971252,77
+2024-08-04,Kuwait International,29.240116,47.971252,74
+2024-08-11,Kuwait International,29.240116,47.971252,77
+2024-08-18,Kuwait International,29.240116,47.971252,70
+2024-08-25,Kuwait International,29.240116,47.971252,78
+2024-06-30,L'Mekrareg,33.833332,2.983333,3
+2024-06-30,Leger,31.647778,-2.259722,2
+2024-06-30,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,7
+2024-07-07,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,7
+2024-07-14,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,7
+2024-07-21,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,6
+2024-07-28,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,11
+2024-08-04,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,11
+2024-08-11,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,11
+2024-08-18,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,10
+2024-08-25,Leonardo Da Vinci (Fiumicino),41.794594,12.250346,9
+2024-06-30,Les Salines,36.821392,7.811857,1
+2024-07-07,Les Salines,36.821392,7.811857,1
+2024-06-30,Lester B. Pearson International,43.681583,-79.61146,3
+2024-07-07,Lester B. Pearson International,43.681583,-79.61146,3
+2024-07-14,Lester B. Pearson International,43.681583,-79.61146,4
+2024-07-21,Lester B. Pearson International,43.681583,-79.61146,4
+2024-07-28,Lester B. Pearson International,43.681583,-79.61146,4
+2024-08-04,Lester B. Pearson International,43.681583,-79.61146,4
+2024-08-11,Lester B. Pearson International,43.681583,-79.61146,3
+2024-08-18,Lester B. Pearson International,43.681583,-79.61146,4
+2024-08-25,Lester B. Pearson International,43.681583,-79.61146,3
+2024-06-30,Liege Airport,50.643333,5.460149,1
+2024-07-28,Liege Airport,50.643333,5.460149,1
+2024-08-04,Liege Airport,50.643333,5.460149,1
+2024-08-11,Liege Airport,50.643333,5.460149,1
+2024-08-18,Liege Airport,50.643333,5.460149,1
+2024-08-25,Liege Airport,50.643333,5.460149,1
+2024-08-04,Linate,45.460957,9.279157,1
+2024-06-30,Liszt Ferenc International,47.433037,19.261621,2
+2024-07-07,Liszt Ferenc International,47.433037,19.261621,3
+2024-07-21,Liszt Ferenc International,47.433037,19.261621,1
+2024-07-28,Liszt Ferenc International,47.433037,19.261621,2
+2024-08-04,Liszt Ferenc International,47.433037,19.261621,2
+2024-08-11,Liszt Ferenc International,47.433037,19.261621,2
+2024-08-18,Liszt Ferenc International,47.433037,19.261621,2
+2024-08-25,Liszt Ferenc International,47.433037,19.261621,2
+2024-06-30,Los Angeles International,33.943398,-118.40828,2
+2024-07-07,Los Angeles International,33.943398,-118.40828,2
+2024-07-14,Los Angeles International,33.943398,-118.40828,3
+2024-07-21,Los Angeles International,33.943398,-118.40828,3
+2024-07-28,Los Angeles International,33.943398,-118.40828,3
+2024-08-04,Los Angeles International,33.943398,-118.40828,2
+2024-08-11,Los Angeles International,33.943398,-118.40828,3
+2024-08-18,Los Angeles International,33.943398,-118.40828,3
+2024-08-25,Los Angeles International,33.943398,-118.40828,3
+2024-06-30,Luxor,25.67492,32.699684,4
+2024-07-07,Luxor,25.67492,32.699684,4
+2024-08-11,Luxor,25.67492,32.699684,2
+2024-08-18,Luxor,25.67492,32.699684,1
+2024-07-21,Mahmud Badaruddin Ii,-2.900146,104.69861,1
+2024-07-28,Mahmud Badaruddin Ii,-2.900146,104.69861,3
+2024-08-04,Mahmud Badaruddin Ii,-2.900146,104.69861,1
+2024-08-11,Mahmud Badaruddin Ii,-2.900146,104.69861,1
+2024-08-18,Mahmud Badaruddin Ii,-2.900146,104.69861,2
+2024-08-25,Mahmud Badaruddin Ii,-2.900146,104.69861,2
+2024-08-18,Makhachkala,42.82095,47.65611,1
+2024-06-30,Malatya,38.354443,38.253613,1
+2024-06-30,Malta International,35.849777,14.495401,2
+2024-08-25,Malta International,35.849777,14.495401,1
+2024-06-30,Malé International Airport,4.201389,73.524445,2
+2024-07-07,Malé International Airport,4.201389,73.524445,2
+2024-07-14,Malé International Airport,4.201389,73.524445,2
+2024-07-21,Malé International Airport,4.201389,73.524445,2
+2024-06-30,Manchester Airport,53.362907,-2.273354,5
+2024-07-07,Manchester Airport,53.362907,-2.273354,6
+2024-07-14,Manchester Airport,53.362907,-2.273354,4
+2024-07-21,Manchester Airport,53.362907,-2.273354,6
+2024-07-28,Manchester Airport,53.362907,-2.273354,5
+2024-08-04,Manchester Airport,53.362907,-2.273354,5
+2024-08-11,Manchester Airport,53.362907,-2.273354,3
+2024-08-18,Manchester Airport,53.362907,-2.273354,5
+2024-08-25,Manchester Airport,53.362907,-2.273354,5
+2024-06-30,Mazar-i-sharif,36.70919,67.20849,2
+2024-07-07,Mazar-i-sharif,36.70919,67.20849,1
+2024-07-21,Mazar-i-sharif,36.70919,67.20849,1
+2024-07-28,Mazar-i-sharif,36.70919,67.20849,1
+2024-08-18,Mazar-i-sharif,36.70919,67.20849,1
+2024-08-25,Mazar-i-sharif,36.70919,67.20849,1
+2024-06-30,Merzifon,40.88333,35.533333,3
+2024-06-30,Milano Malpensa,45.627403,8.71237,5
+2024-07-07,Milano Malpensa,45.627403,8.71237,9
+2024-07-14,Milano Malpensa,45.627403,8.71237,6
+2024-07-21,Milano Malpensa,45.627403,8.71237,6
+2024-07-28,Milano Malpensa,45.627403,8.71237,7
+2024-08-04,Milano Malpensa,45.627403,8.71237,8
+2024-08-11,Milano Malpensa,45.627403,8.71237,6
+2024-08-18,Milano Malpensa,45.627403,8.71237,9
+2024-08-25,Milano Malpensa,45.627403,8.71237,9
+2024-08-04,Milas,37.243954,27.672781,1
+2024-07-21,Minangkabau International Airport,-0.786667,100.280556,1
+2024-07-28,Minangkabau International Airport,-0.786667,100.280556,1
+2024-08-04,Minangkabau International Airport,-0.786667,100.280556,1
+2024-08-18,Minangkabau International Airport,-0.786667,100.280556,1
+2024-08-25,Minangkabau International Airport,-0.786667,100.280556,1
+2024-07-07,Mogadishu International Airport,2.013333,45.31333,1
+2024-07-28,Mogadishu International Airport,2.013333,45.31333,1
+2024-08-04,Mogadishu International Airport,2.013333,45.31333,1
+2024-08-11,Mogadishu International Airport,2.013333,45.31333,1
+2024-08-18,Mogadishu International Airport,2.013333,45.31333,1
+2024-08-25,Mogadishu International Airport,2.013333,45.31333,1
+2024-06-30,Mohamed V,33.36667,-7.586667,18
+2024-07-07,Mohamed V,33.36667,-7.586667,13
+2024-07-14,Mohamed V,33.36667,-7.586667,14
+2024-07-21,Mohamed V,33.36667,-7.586667,20
+2024-07-28,Mohamed V,33.36667,-7.586667,19
+2024-08-04,Mohamed V,33.36667,-7.586667,18
+2024-08-11,Mohamed V,33.36667,-7.586667,19
+2024-08-18,Mohamed V,33.36667,-7.586667,17
+2024-08-25,Mohamed V,33.36667,-7.586667,19
+2024-06-30,Mubarak International,26.338877,31.737167,8
+2024-07-07,Mubarak International,26.338877,31.737167,8
+2024-07-14,Mubarak International,26.338877,31.737167,7
+2024-07-21,Mubarak International,26.338877,31.737167,8
+2024-07-28,Mubarak International,26.338877,31.737167,8
+2024-08-04,Mubarak International,26.338877,31.737167,8
+2024-08-11,Mubarak International,26.338877,31.737167,8
+2024-08-18,Mubarak International,26.338877,31.737167,8
+2024-08-25,Mubarak International,26.338877,31.737167,8
+2024-06-30,Multan International,30.199507,71.41498,15
+2024-07-07,Multan International,30.199507,71.41498,8
+2024-07-14,Multan International,30.199507,71.41498,12
+2024-07-21,Multan International,30.199507,71.41498,21
+2024-07-28,Multan International,30.199507,71.41498,24
+2024-08-04,Multan International,30.199507,71.41498,26
+2024-08-11,Multan International,30.199507,71.41498,26
+2024-08-18,Multan International,30.199507,71.41498,24
+2024-08-25,Multan International,30.199507,71.41498,25
+2024-06-30,Mus,38.725,41.625,1
+2024-07-28,Mérignac,44.83102,-0.70217,1
+2024-08-11,Nikos Kazantzakis Airport,35.33663,25.174192,1
+2024-06-30,Ninoy Aquino International,14.509602,121.01251,5
+2024-07-07,Ninoy Aquino International,14.509602,121.01251,7
+2024-07-14,Ninoy Aquino International,14.509602,121.01251,7
+2024-07-21,Ninoy Aquino International,14.509602,121.01251,7
+2024-07-28,Ninoy Aquino International,14.509602,121.01251,6
+2024-08-04,Ninoy Aquino International,14.509602,121.01251,7
+2024-08-11,Ninoy Aquino International,14.509602,121.01251,7
+2024-08-18,Ninoy Aquino International,14.509602,121.01251,7
+2024-08-25,Ninoy Aquino International,14.509602,121.01251,7
+2024-07-07,Noumerate,32.38222,3.800556,1
+2024-06-30,Novo Alexeyevka International,41.674065,44.958958,7
+2024-07-07,Novo Alexeyevka International,41.674065,44.958958,7
+2024-07-14,Novo Alexeyevka International,41.674065,44.958958,7
+2024-07-21,Novo Alexeyevka International,41.674065,44.958958,7
+2024-07-28,Novo Alexeyevka International,41.674065,44.958958,7
+2024-08-04,Novo Alexeyevka International,41.674065,44.958958,7
+2024-08-11,Novo Alexeyevka International,41.674065,44.958958,7
+2024-08-18,Novo Alexeyevka International,41.674065,44.958958,7
+2024-08-25,Novo Alexeyevka International,41.674065,44.958958,6
+2024-06-30,Nürnberg,49.494167,11.077062,1
+2024-06-30,Osmani International,24.957598,91.870476,1
+2024-07-07,Osmani International,24.957598,91.870476,1
+2024-07-14,Osmani International,24.957598,91.870476,2
+2024-07-21,Osmani International,24.957598,91.870476,3
+2024-07-28,Osmani International,24.957598,91.870476,3
+2024-08-04,Osmani International,24.957598,91.870476,3
+2024-08-11,Osmani International,24.957598,91.870476,3
+2024-08-18,Osmani International,24.957598,91.870476,2
+2024-08-25,Osmani International,24.957598,91.870476,2
+2024-07-28,Pablo Ruiz Picasso,36.675182,-4.489616,1
+2024-08-04,Pablo Ruiz Picasso,36.675182,-4.489616,1
+2024-06-30,Patenga,22.245201,91.81516,4
+2024-07-07,Patenga,22.245201,91.81516,3
+2024-07-14,Patenga,22.245201,91.81516,4
+2024-07-21,Patenga,22.245201,91.81516,4
+2024-07-28,Patenga,22.245201,91.81516,4
+2024-08-04,Patenga,22.245201,91.81516,4
+2024-08-11,Patenga,22.245201,91.81516,4
+2024-08-18,Patenga,22.245201,91.81516,4
+2024-08-25,Patenga,22.245201,91.81516,4
+2024-06-30,Peshawar,33.989082,71.51925,3
+2024-07-07,Peshawar,33.989082,71.51925,4
+2024-07-14,Peshawar,33.989082,71.51925,8
+2024-07-21,Peshawar,33.989082,71.51925,10
+2024-07-28,Peshawar,33.989082,71.51925,10
+2024-08-04,Peshawar,33.989082,71.51925,9
+2024-08-11,Peshawar,33.989082,71.51925,8
+2024-08-18,Peshawar,33.989082,71.51925,8
+2024-08-25,Peshawar,33.989082,71.51925,9
+2024-07-28,Polonia,3.561111,98.672775,4
+2024-08-04,Polonia,3.561111,98.672775,6
+2024-08-11,Polonia,3.561111,98.672775,6
+2024-08-18,Polonia,3.561111,98.672775,1
+2024-08-25,Polonia,3.561111,98.672775,3
+2024-06-30,Port Sudan,19.577778,37.21389,6
+2024-07-07,Port Sudan,19.577778,37.21389,7
+2024-07-14,Port Sudan,19.577778,37.21389,7
+2024-07-21,Port Sudan,19.577778,37.21389,7
+2024-07-28,Port Sudan,19.577778,37.21389,7
+2024-08-04,Port Sudan,19.577778,37.21389,7
+2024-08-11,Port Sudan,19.577778,37.21389,5
+2024-08-18,Port Sudan,19.577778,37.21389,6
+2024-08-25,Port Sudan,19.577778,37.21389,7
+2024-06-30,Quaid-e-azam International,24.899986,67.16828,31
+2024-07-07,Quaid-e-azam International,24.899986,67.16828,26
+2024-07-14,Quaid-e-azam International,24.899986,67.16828,32
+2024-07-21,Quaid-e-azam International,24.899986,67.16828,39
+2024-07-28,Quaid-e-azam International,24.899986,67.16828,41
+2024-08-04,Quaid-e-azam International,24.899986,67.16828,42
+2024-08-11,Quaid-e-azam International,24.899986,67.16828,41
+2024-08-18,Quaid-e-azam International,24.899986,67.16828,35
+2024-08-25,Quaid-e-azam International,24.899986,67.16828,31
+2024-06-30,Queen Alia International,31.722534,35.98932,52
+2024-07-07,Queen Alia International,31.722534,35.98932,46
+2024-07-14,Queen Alia International,31.722534,35.98932,45
+2024-07-21,Queen Alia International,31.722534,35.98932,49
+2024-07-28,Queen Alia International,31.722534,35.98932,51
+2024-08-04,Queen Alia International,31.722534,35.98932,57
+2024-08-11,Queen Alia International,31.722534,35.98932,62
+2024-08-18,Queen Alia International,31.722534,35.98932,62
+2024-08-25,Queen Alia International,31.722534,35.98932,55
+2024-06-30,Quetta,30.249266,66.949036,1
+2024-08-25,Quetta,30.249266,66.949036,1
+2024-06-30,Riyan Mukalla,14.666999,49.373684,1
+2024-07-14,Riyan Mukalla,14.666999,49.373684,2
+2024-07-21,Riyan Mukalla,14.666999,49.373684,1
+2024-07-28,Riyan Mukalla,14.666999,49.373684,1
+2024-08-04,Riyan Mukalla,14.666999,49.373684,1
+2024-08-11,Riyan Mukalla,14.666999,49.373684,1
+2024-08-25,Riyan Mukalla,14.666999,49.373684,2
+2024-06-30,Sabiha Gokcen,40.904675,29.309189,32
+2024-07-07,Sabiha Gokcen,40.904675,29.309189,29
+2024-07-14,Sabiha Gokcen,40.904675,29.309189,31
+2024-07-21,Sabiha Gokcen,40.904675,29.309189,33
+2024-07-28,Sabiha Gokcen,40.904675,29.309189,37
+2024-08-04,Sabiha Gokcen,40.904675,29.309189,37
+2024-08-11,Sabiha Gokcen,40.904675,29.309189,42
+2024-08-18,Sabiha Gokcen,40.904675,29.309189,35
+2024-08-25,Sabiha Gokcen,40.904675,29.309189,35
+2024-06-30,Salalah,17.038124,54.106937,3
+2024-07-07,Salalah,17.038124,54.106937,3
+2024-07-14,Salalah,17.038124,54.106937,3
+2024-07-21,Salalah,17.038124,54.106937,3
+2024-07-28,Salalah,17.038124,54.106937,3
+2024-08-04,Salalah,17.038124,54.106937,3
+2024-08-11,Salalah,17.038124,54.106937,3
+2024-08-18,Salalah,17.038124,54.106937,2
+2024-08-25,Salalah,17.038124,54.106937,3
+2024-06-30,Sale,34.036137,-6.748619,2
+2024-07-07,Sale,34.036137,-6.748619,2
+2024-06-30,Sarajevo,43.826687,18.336065,10
+2024-07-07,Sarajevo,43.826687,18.336065,8
+2024-07-14,Sarajevo,43.826687,18.336065,8
+2024-07-21,Sarajevo,43.826687,18.336065,9
+2024-07-28,Sarajevo,43.826687,18.336065,8
+2024-08-04,Sarajevo,43.826687,18.336065,9
+2024-08-11,Sarajevo,43.826687,18.336065,9
+2024-08-18,Sarajevo,43.826687,18.336065,9
+2024-08-25,Sarajevo,43.826687,18.336065,6
+2024-06-30,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,5
+2024-07-07,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,7
+2024-07-14,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,7
+2024-07-21,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,8
+2024-07-28,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,8
+2024-08-04,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,9
+2024-08-11,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,9
+2024-08-18,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,9
+2024-08-25,Sardar Vallabhbhai Patel International Airport,23.06639,72.62417,9
+2024-06-30,Schiphol,52.30907,4.763385,5
+2024-07-07,Schiphol,52.30907,4.763385,3
+2024-07-14,Schiphol,52.30907,4.763385,6
+2024-07-21,Schiphol,52.30907,4.763385,4
+2024-07-28,Schiphol,52.30907,4.763385,2
+2024-08-04,Schiphol,52.30907,4.763385,5
+2024-08-11,Schiphol,52.30907,4.763385,5
+2024-08-18,Schiphol,52.30907,4.763385,6
+2024-08-25,Schiphol,52.30907,4.763385,6
+2024-06-30,Seeb,23.588078,58.29022,40
+2024-07-07,Seeb,23.588078,58.29022,43
+2024-07-14,Seeb,23.588078,58.29022,42
+2024-07-21,Seeb,23.588078,58.29022,44
+2024-07-28,Seeb,23.588078,58.29022,41
+2024-08-04,Seeb,23.588078,58.29022,42
+2024-08-11,Seeb,23.588078,58.29022,43
+2024-08-18,Seeb,23.588078,58.29022,42
+2024-08-25,Seeb,23.588078,58.29022,42
+2024-06-30,Seiyun,15.961794,48.787086,1
+2024-07-07,Seiyun,15.961794,48.787086,1
+2024-07-14,Seiyun,15.961794,48.787086,1
+2024-07-21,Seiyun,15.961794,48.787086,1
+2024-07-28,Seiyun,15.961794,48.787086,2
+2024-08-04,Seiyun,15.961794,48.787086,2
+2024-08-25,Seiyun,15.961794,48.787086,1
+2024-06-30,Sharjah,25.320873,55.52029,25
+2024-07-07,Sharjah,25.320873,55.52029,27
+2024-07-14,Sharjah,25.320873,55.52029,26
+2024-07-21,Sharjah,25.320873,55.52029,27
+2024-07-28,Sharjah,25.320873,55.52029,26
+2024-08-04,Sharjah,25.320873,55.52029,27
+2024-08-11,Sharjah,25.320873,55.52029,28
+2024-08-18,Sharjah,25.320873,55.52029,28
+2024-08-25,Sharjah,25.320873,55.52029,27
+2024-06-30,Sharm el-Sheikh International Airport,27.979357,34.385254,16
+2024-07-07,Sharm el-Sheikh International Airport,27.979357,34.385254,16
+2024-07-14,Sharm el-Sheikh International Airport,27.979357,34.385254,17
+2024-07-21,Sharm el-Sheikh International Airport,27.979357,34.385254,15
+2024-07-28,Sharm el-Sheikh International Airport,27.979357,34.385254,17
+2024-08-04,Sharm el-Sheikh International Airport,27.979357,34.385254,15
+2024-08-11,Sharm el-Sheikh International Airport,27.979357,34.385254,15
+2024-08-18,Sharm el-Sheikh International Airport,27.979357,34.385254,14
+2024-08-25,Sharm el-Sheikh International Airport,27.979357,34.385254,10
+2024-06-30,Sialkot International,32.533333,74.5,3
+2024-07-07,Sialkot International,32.533333,74.5,5
+2024-07-14,Sialkot International,32.533333,74.5,4
+2024-07-21,Sialkot International,32.533333,74.5,4
+2024-07-28,Sialkot International,32.533333,74.5,4
+2024-08-04,Sialkot International,32.533333,74.5,2
+2024-08-11,Sialkot International,32.533333,74.5,4
+2024-08-18,Sialkot International,32.533333,74.5,4
+2024-08-25,Sialkot International,32.533333,74.5,4
+2024-06-30,Singapore Changi,1.361173,103.990204,3
+2024-07-07,Singapore Changi,1.361173,103.990204,3
+2024-07-14,Singapore Changi,1.361173,103.990204,2
+2024-07-21,Singapore Changi,1.361173,103.990204,3
+2024-07-28,Singapore Changi,1.361173,103.990204,4
+2024-08-04,Singapore Changi,1.361173,103.990204,5
+2024-08-11,Singapore Changi,1.361173,103.990204,6
+2024-08-18,Singapore Changi,1.361173,103.990204,6
+2024-08-25,Singapore Changi,1.361173,103.990204,6
+2024-06-30,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,3
+2024-07-07,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,2
+2024-07-14,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,3
+2024-07-21,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,3
+2024-07-28,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,4
+2024-08-04,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,4
+2024-08-11,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,4
+2024-08-18,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,3
+2024-08-25,Sir Seewoosagur Ramgoolam International,-20.431997,57.67663,4
+2024-07-28,Sivas,39.81389,36.904167,1
+2024-06-30,Soekarno-Hatta International,-6.130643,106.655525,25
+2024-07-07,Soekarno-Hatta International,-6.130643,106.655525,14
+2024-07-14,Soekarno-Hatta International,-6.130643,106.655525,18
+2024-07-21,Soekarno-Hatta International,-6.130643,106.655525,40
+2024-07-28,Soekarno-Hatta International,-6.130643,106.655525,48
+2024-08-04,Soekarno-Hatta International,-6.130643,106.655525,59
+2024-08-11,Soekarno-Hatta International,-6.130643,106.655525,60
+2024-08-18,Soekarno-Hatta International,-6.130643,106.655525,57
+2024-08-25,Soekarno-Hatta International,-6.130643,106.655525,57
+2024-07-28,Son Sant Joan Airport,39.547653,2.730388,1
+2024-06-30,Sphinx International Airport,30.109722,30.894444,7
+2024-07-07,Sphinx International Airport,30.109722,30.894444,5
+2024-07-14,Sphinx International Airport,30.109722,30.894444,4
+2024-07-21,Sphinx International Airport,30.109722,30.894444,5
+2024-07-28,Sphinx International Airport,30.109722,30.894444,4
+2024-08-04,Sphinx International Airport,30.109722,30.894444,5
+2024-08-11,Sphinx International Airport,30.109722,30.894444,5
+2024-08-18,Sphinx International Airport,30.109722,30.894444,5
+2024-08-25,Sphinx International Airport,30.109722,30.894444,7
+2024-07-21,Stansted,51.889267,0.262703,1
+2024-08-04,Stansted,51.889267,0.262703,2
+2024-08-11,Stansted,51.889267,0.262703,1
+2024-07-28,Sultan Iskandarmuda Airport,5.518021,95.41833,1
+2024-08-25,Sultan Iskandarmuda Airport,5.518021,95.41833,1
+2024-07-21,Sultan Ismail International,1.638889,103.67083,1
+2024-07-28,Sultan Ismail International,1.638889,103.67083,1
+2024-08-04,Sultan Ismail International,1.638889,103.67083,1
+2024-08-11,Sultan Ismail International,1.638889,103.67083,1
+2024-08-18,Sultan Ismail International,1.638889,103.67083,1
+2024-06-30,Suvarnabhumi International,13.693062,100.752045,9
+2024-07-07,Suvarnabhumi International,13.693062,100.752045,6
+2024-07-14,Suvarnabhumi International,13.693062,100.752045,8
+2024-07-21,Suvarnabhumi International,13.693062,100.752045,6
+2024-07-28,Suvarnabhumi International,13.693062,100.752045,6
+2024-08-04,Suvarnabhumi International,13.693062,100.752045,6
+2024-08-11,Suvarnabhumi International,13.693062,100.752045,6
+2024-08-18,Suvarnabhumi International,13.693062,100.752045,6
+2024-08-25,Suvarnabhumi International,13.693062,100.752045,6
+2024-07-21,Tashkent International,41.262714,69.26619,5
+2024-07-28,Tashkent International,41.262714,69.26619,5
+2024-08-04,Tashkent International,41.262714,69.26619,5
+2024-08-11,Tashkent International,41.262714,69.26619,5
+2024-08-18,Tashkent International,41.262714,69.26619,7
+2024-08-25,Tashkent International,41.262714,69.26619,8
+2024-06-30,Tokat,40.302223,36.36778,1
+2024-06-30,Trabzon,40.99419,39.78168,19
+2024-07-07,Trabzon,40.99419,39.78168,18
+2024-07-14,Trabzon,40.99419,39.78168,19
+2024-07-21,Trabzon,40.99419,39.78168,18
+2024-07-28,Trabzon,40.99419,39.78168,21
+2024-08-04,Trabzon,40.99419,39.78168,24
+2024-08-11,Trabzon,40.99419,39.78168,27
+2024-08-18,Trabzon,40.99419,39.78168,16
+2024-08-25,Trabzon,40.99419,39.78168,6
+2024-06-30,Vienna International,48.11972,16.563583,1
+2024-07-07,Vienna International,48.11972,16.563583,2
+2024-07-14,Vienna International,48.11972,16.563583,3
+2024-07-21,Vienna International,48.11972,16.563583,1
+2024-07-28,Vienna International,48.11972,16.563583,2
+2024-08-04,Vienna International,48.11972,16.563583,2
+2024-08-11,Vienna International,48.11972,16.563583,2
+2024-08-18,Vienna International,48.11972,16.563583,1
+2024-08-25,Vienna International,48.11972,16.563583,2
+2024-08-04,W. A. Mozart,47.791225,12.997331,1
+2024-06-30,Washington Dulles International,38.95315,-77.44774,4
+2024-07-07,Washington Dulles International,38.95315,-77.44774,4
+2024-07-14,Washington Dulles International,38.95315,-77.44774,4
+2024-07-21,Washington Dulles International,38.95315,-77.44774,4
+2024-07-28,Washington Dulles International,38.95315,-77.44774,2
+2024-08-04,Washington Dulles International,38.95315,-77.44774,4
+2024-08-11,Washington Dulles International,38.95315,-77.44774,4
+2024-08-18,Washington Dulles International,38.95315,-77.44774,4
+2024-08-25,Washington Dulles International,38.95315,-77.44774,3
+2024-06-30,Yenisehir,40.233334,29.55,1
+2024-08-04,Yenisehir,40.233334,29.55,1
+2024-08-25,Yenisehir,40.233334,29.55,1
+2024-06-30,Yohannes IV,15.291111,38.91028,1
+2024-07-07,Yohannes IV,15.291111,38.91028,2
+2024-07-14,Yohannes IV,15.291111,38.91028,2
+2024-07-21,Yohannes IV,15.291111,38.91028,3
+2024-07-28,Yohannes IV,15.291111,38.91028,3
+2024-08-04,Yohannes IV,15.291111,38.91028,4
+2024-08-11,Yohannes IV,15.291111,38.91028,2
+2024-08-18,Yohannes IV,15.291111,38.91028,1
+2024-08-25,Yohannes IV,15.291111,38.91028,2
+2024-06-30,Zenata,35.016666,-1.45,5
+2024-06-30,Zia International,23.848648,90.405876,33
+2024-07-07,Zia International,23.848648,90.405876,42
+2024-07-14,Zia International,23.848648,90.405876,31
+2024-07-21,Zia International,23.848648,90.405876,24
+2024-07-28,Zia International,23.848648,90.405876,27
+2024-08-04,Zia International,23.848648,90.405876,20
+2024-08-11,Zia International,23.848648,90.405876,29
+2024-08-18,Zia International,23.848648,90.405876,31
+2024-08-25,Zia International,23.848648,90.405876,33
+2024-06-30,Zurich,47.450603,8.561746,1
+2024-07-07,Zurich,47.450603,8.561746,1
+2024-07-14,Zurich,47.450603,8.561746,1
+2024-08-04,Zurich,47.450603,8.561746,1
+2024-08-18,Zurich,47.450603,8.561746,2
+2024-08-25,Zurich,47.450603,8.561746,1
