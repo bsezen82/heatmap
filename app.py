@@ -186,7 +186,7 @@ def generate_map(week, vis_type, flight_data_selection, country_column):
         for index, row in flight_data.iterrows():
             folium.CircleMarker(
                 location=[row['latitude'], row['longitude']],
-                radius=row['flight_count'] / (75 if is_overall else 10),  # Scale radius differently for overall vs weekly
+                radius=row['flight_count'] / (100 if is_overall else 10),  # Scale radius differently for overall vs weekly
                 color=get_color(row['flight_count'], is_overall),  # Get color based on flight count and selection
                 fill=True,
                 fill_color=get_color(row['flight_count'], is_overall),
