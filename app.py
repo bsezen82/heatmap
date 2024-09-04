@@ -138,23 +138,23 @@ def get_color(flight_count, is_overall):
     if is_overall:
         # Different thresholds for overall data
         if flight_count >= 300:
-            return 'darkblue'
+            return 'blue'
         elif 120 <= flight_count < 300:
             return 'blue'
         elif 30 <= flight_count < 120:
-            return 'lightblue'
+            return 'blue'
         else:
-            return 'lightblue'
+            return 'blue'
     else:
         # Different thresholds for weekly data
         if flight_count >= 30:
-            return 'darkblue'
+            return 'blue'
         elif 14 <= flight_count < 30:
             return 'blue'
         elif 7 <= flight_count < 14:
-            return 'lightblue'
+            return 'blue'
         else:
-            return 'lightblue'
+            return 'blue'
     
 # Function to generate the map
 def generate_map(week, vis_type, flight_data_selection, country_column):
